@@ -1,102 +1,93 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="",TRT 1
-https://b.dalinpepe1.workers.dev/trt1.m3u8
+https://b.dalinpepe1.workers.dev/trt1
 
 #EXTINF:-1 tvg-logo="",TRT HABER
-https://b.dalinpepe1.workers.dev/trthaber.m3u8
+https://b.dalinpepe1.workers.dev/trthaber
 
 #EXTINF:-1 tvg-logo="",TRT 2
-https://b.dalinpepe1.workers.dev/trt2.m3u8
+https://b.dalinpepe1.workers.dev/trt2
 
 #EXTINF:-1 tvg-logo="",TRT BELGESEL
-https://b.dalinpepe1.workers.dev/trtbelgesel.m3u8
+https://b.dalinpepe1.workers.dev/trtbelgesel
 
 #EXTINF:-1 tvg-logo="",TRT AVAZ
-https://b.dalinpepe1.workers.dev/trtavaz.m3u8
+https://b.dalinpepe1.workers.dev/trtavaz
 
 #EXTINF:-1 tvg-logo="",TGRT HABER
-https://b.dalinpepe1.workers.dev/tgrthaber.m3u8
+https://b.dalinpepe1.workers.dev/tgrthaber
 
 #EXTINF:-1 tvg-logo="",TGRT BELGESEL
-https://b.dalinpepe1.workers.dev/tgrtbelgesel.m3u8
+https://b.dalinpepe1.workers.dev/tgrtbelgesel
 
 #EXTINF:-1 tvg-logo="",KANAL D
-https://b.dalinpepe1.workers.dev/kanald.m3u8
+https://b.dalinpepe1.workers.dev/kanald
 
 #EXTINF:-1 tvg-logo="",KANAL 7
-https://b.dalinpepe1.workers.dev/kanal7.m3u8
+https://b.dalinpepe1.workers.dev/kanal7
 
 #EXTINF:-1 tvg-logo="",SHOW TV
-https://b.dalinpepe1.workers.dev/showtv.m3u8
+https://b.dalinpepe1.workers.dev/showtv
 
 #EXTINF:-1 tvg-logo="",STAR TV
-https://b.dalinpepe1.workers.dev/star.m3u8
+https://b.dalinpepe1.workers.dev/startv
 
 #EXTINF:-1 tvg-logo="",ATV
-https://b.dalinpepe1.workers.dev/atv.m3u8
+https://b.dalinpepe1.workers.dev/atv
 
 #EXTINF:-1 tvg-logo="",NOW
-https://b.dalinpepe1.workers.dev/now.m3u8
+https://b.dalinpepe1.workers.dev/now
 
 #EXTINF:-1 tvg-logo="",TV8
-https://b.dalinpepe1.workers.dev/tv8.m3u8
+https://b.dalinpepe1.workers.dev/tv8
 
 #EXTINF:-1 tvg-logo="",TV8,5
-https://b.dalinpepe1.workers.dev/tv8bucuk.m3u8
+https://b.dalinpepe1.workers.dev/tv8bucuk
 
 #EXTINF:-1 tvg-logo="",BEYAZ TV
-https://b.dalinpepe1.workers.dev/beyaztv.m3u8
+https://b.dalinpepe1.workers.dev/beyaztv
 
 #EXTINF:-1 tvg-logo="",TLC
-https://b.dalinpepe1.workers.dev/tlc.m3u8
+https://b.dalinpepe1.workers.dev/tlc
 
 #EXTINF:-1 tvg-logo="",DMAX
-https://b.dalinpepe1.workers.dev/dmax.m3u8
+https://b.dalinpepe1.workers.dev/dmax
 
 #EXTINF:-1 tvg-logo="",A HABER
-https://b.dalinpepe1.workers.dev/ahaber.m3u8
+https://b.dalinpepe1.workers.dev/ahaber
 
 #EXTINF:-1 tvg-logo="",CNN TURK
-https://b.dalinpepe1.workers.dev/cnnturk.m3u8
+https://b.dalinpepe1.workers.dev/cnnturk
 
 #EXTINF:-1 tvg-logo="",NTV
-https://b.dalinpepe1.workers.dev/ntv.m3u8
+https://b.dalinpepe1.workers.dev/ntv
 
 #EXTINF:-1 tvg-logo="",HABERTURK
-https://b.dalinpepe1.workers.dev/haberturk.m3u8
+https://b.dalinpepe1.workers.dev/haberturk
 
 #EXTINF:-1 tvg-logo="",A SPOR
-https://b.dalinpepe1.workers.dev/aspor.m3u8
+https://b.dalinpepe1.workers.dev/aspor
 
 #EXTINF:-1 tvg-logo="",A PARA
-https://b.dalinpepe1.workers.dev/apara.m3u8
-
-#EXTINF:-1 tvg-logo="",AVRUPA YAKASI
-https://b.dalinpepe1.workers.dev/avrupayakasi.m3u8
+https://b.dalinpepe1.workers.dev/apara
 
 #EXTINF:-1 tvg-logo="",ZENGİN KIZ FAKİR OGLAN
-https://b.dalinpepe1.workers.dev/zenginkizfakiroglan.m3u8
+https://b.dalinpepe1.workers.dev/zenginkizfakiroglan
 
 #EXTINF:-1 tvg-logo="",YEDİ NUMARA
-https://b.dalinpepe1.workers.dev/yedinumara.m3u8
+https://b.dalinpepe1.workers.dev/yedinumara
 
 #EXTINF:-1 tvg-logo="",GÜLDÜR GÜLDÜR
-https://b.dalinpepe1.workers.dev/guldurguldur.m3u8
+https://b.dalinpepe1.workers.dev/guldurguldur
 
 #EXTINF:-1 tvg-logo="",KURTLAR VADİSİ
-https://b.dalinpepe1.workers.dev/kurtlarvadisi.m3u8
+https://b.dalinpepe1.workers.dev/kurtlarvadisi
 
 #EXTINF:-1 tvg-logo="",HZ YUSUF
-https://b.dalinpepe1.workers.dev/hzyusuf.m3u8
+https://b.dalinpepe1.workers.dev/hzyusuf
 
 #EXTINF:-1 tvg-logo="",GÜLŞAH FİLM
-https://b.dalinpepe1.workers.dev/gulsahfilm.m3u8
-
-#EXTINF:-1 tvg-logo="",SELENA
-https://b.dalinpepe1.workers.dev/selena.m3u8
+https://b.dalinpepe1.workers.dev/gulsahfilm
 
 #EXTINF:-1 tvg-logo="",GUMBALL
-https://b.dalinpepe1.workers.dev/gumball.m3u8
-
-#EXTINF:-1 tvg-logo="",MR BEAN
-https://b.dalinpepe1.workers.dev/mrbean.m3u8
+https://b.dalinpepe1.workers.dev/gumball
