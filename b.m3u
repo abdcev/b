@@ -62,8 +62,8 @@ https://b.dalinpepe1.workers.dev/tv4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/b/refs/heads/main/img/cine1.png",cine1
 https://b.dalinpepe1.workers.dev/cine1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/b/refs/heads/main/img/360tv.png",360tv
-https://b.dalinpepe1.workers.dev/360
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/b/refs/heads/main/img/360tv.png",360 TV
+https://b.dalinpepe1.workers.dev/360tv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/b/refs/heads/main/img/ahaber.png",A HABER
 https://b.dalinpepe1.workers.dev/ahaber
