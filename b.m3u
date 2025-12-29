@@ -11,6 +11,12 @@ https://b.dalinpepe1.workers.dev/trt2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/b/refs/heads/main/img/trtbelgesel.png",TRT BELGESEL
 https://b.dalinpepe1.workers.dev/trtbelgesel
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/natioanalgeographicwild.png", National Geographic Wild
+https://b.dalinpepe1.workers.dev/nationalgeographicwild
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/natioanalgeographic.png", National Geographic
+https://b.dalinpepe1.workers.dev/nationalgeographic
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/b/refs/heads/main/img/trtavaz.png",TRT AVAZ
 https://b.dalinpepe1.workers.dev/trtavaz
 
