@@ -151,3 +151,6 @@ https://b.dalinpepe1.workers.dev/karagandytv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/b/refs/heads/main/img/semeitv.png",Semei TV
 https://b.dalinpepe1.workers.dev/semeytv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/makka.png",Al Quran Al Kareem TV
+https://b.dalinpepe1.workers.dev/alquranalkareemtv
