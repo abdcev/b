@@ -91,25 +91,17 @@ https://b.dalinpepe1.workers.dev/aspor
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/b/refs/heads/main/img/apara.png",A PARA
 https://b.dalinpepe1.workers.dev/apara
 
-#EXTINF:-1 tvg-name="Sinema TV Aile" tvg-logo="https://img.dsmartgo.com.tr/content/-/EU/22897/Thumbnail.png" group-title="InatBox - Sinema Kanalları",Sinema TV Aile
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.108 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com/
-https://str.filmizlesekmi.top/GLB/?static=sinemaaile01
+#EXTINF:-1 tvg-logo="https://img.dsmartgo.com.tr/content/-/EU/22897/Thumbnail.png",Sinema TV Aile
+https://b.dalinpepe1.workers.dev/sinemaaile
 
-#EXTINF:-1 tvg-name="Sinema TV Aile 2" tvg-logo="https://img.dsmartgo.com.tr/content/e/Mq/22898/Thumbnail.png" group-title="InatBox - Sinema Kanalları",Sinema TV Aile 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.108 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com/
-https://str.filmizlesekmi.top/GLB/?static=sinemaaile02
+#EXTINF:-1 tvg-logo="https://img.dsmartgo.com.tr/content/t/tD/22896/Thumbnail.png",Sinema TV Aksiyon
+https://b.dalinpepe1.workers.dev/sinemaaksiyon
 
-#EXTINF:-1 tvg-name="Sinema TV Aksiyon" tvg-logo="https://img.dsmartgo.com.tr/content/t/tD/22896/Thumbnail.png" group-title="InatBox - Sinema Kanalları",Sinema TV Aksiyon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.108 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com/
-https://str.filmizlesekmi.top/GLB/?static=sinemaaksiyon01
+#EXTINF:-1 tvg-logo="",Sinema TV Yerli
+https://b.dalinpepe1.workers.dev/sinemayerli
 
-#EXTINF:-1 tvg-name="Sinema TV Aksiyon 2" tvg-logo="https://img.dsmartgo.com.tr/content/M/RG/22895/Thumbnail.png" group-title="InatBox - Sinema Kanalları",Sinema TV Aksiyon 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.108 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com/
-https://str.filmizlesekmi.top/GLB/?static=sinemaaksiyon02
+#EXTINF:-1 tvg-logo="",Sinema TV 1001
+https://b.dalinpepe1.workers.dev/sinema1001
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/b/refs/heads/main/img/qazaqstan.png",Qazaqstan TV
 https://b.dalinpepe1.workers.dev/qazaqstantv
