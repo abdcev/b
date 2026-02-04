@@ -61,6 +61,9 @@ https://b.dalinpepe1.workers.dev/tlc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/b/refs/heads/main/img/dmax.png",DMAX
 https://b.dalinpepe1.workers.dev/dmax
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/cartoonnetwork.png",Cartoon Network
+https://b.dalinpepe1.workers.dev/cartoonnetwork
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/b/refs/heads/main/img/teve2.png",TEVE 2
 https://b.dalinpepe1.workers.dev/teve2
 
