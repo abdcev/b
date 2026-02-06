@@ -95,6 +95,9 @@ https://b.dalinpepe1.workers.dev/aspor
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/apara.png",A PARA
 https://b.dalinpepe1.workers.dev/apara
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/sinematv.png",Sinema TV
+https://b.dalinpepe1.workers.dev/sinematv
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/sinemaaile.png",Sinema TV Aile
 https://b.dalinpepe1.workers.dev/sinemaaile
 
