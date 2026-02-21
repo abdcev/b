@@ -2,12 +2,6 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/b/refs/heads/main/img/tabiitv.png",TABİİ TV
 https://b.dalinpepe1.workers.dev/tabiitv
 
-#EXTM3U
-#EXTINF:-1,TİVİBU SPOR 4
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://mss.ayakkabiparti.lol/t4/index.m3u8?token=kKXXNxGFRta3N2vwUkBPow&tms=1771783206
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/trt1.png",TRT 1
 https://b.dalinpepe1.workers.dev/trt1
 
