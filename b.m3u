@@ -20,6 +20,16 @@ https://9vy.d72577a9dd0ec19.sbs/zirve/mono.m3u8
 #EXTVLCOPT:http-referrer=https://monotv532.com/
 https://lr3.zirvedesin208.cfd/zirve/mono.m3u8
 
+#EXTINF:-1,Bein Sports 1
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://1.rec1387.workers.dev/static/bs11.m3u8?&ad=random?token=u4pSwkRKilterPElw4AfZw&tms=1771786844
+
+#EXTINF:-1,BEIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://www.atomsportv488.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+https://white-sky-0cce.ambiyans.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/trt1.png",TRT 1
 https://b.dalinpepe1.workers.dev/trt1
 
