@@ -2,33 +2,11 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/b/refs/heads/main/img/tabiitv.png",TABİİ TV
 https://b.dalinpepe1.workers.dev/tabiitv
 
-#EXTINF:-1 group-title="Spor Cafe",Sbeinsports 1
-#EXTVLCOPT:http-referrer=https://a.dalinpepe1.workers.dev/beinsprots1
-https://b.dalinpepe1.workers.dev/beinsprots1
-
-#EXTINF:-1 group-title="7/24 Kanallar",beIN Sports 1 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1541.xyz/
-https://obv.d72577a9dd0ec28.sbs/zirve/mono.m3u8
-
-#EXTINF:-1 group-title="int spor",beIN Sports 1 A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hepbetspor16.cfd/
-https://9vy.d72577a9dd0ec19.sbs/zirve/mono.m3u8
-
-#EXTINF:-1 group-title="JEST SPOR",beIN Sports 1 A
-#EXTVLCOPT:http-referrer=https://monotv532.com/
-https://lr3.zirvedesin208.cfd/zirve/mono.m3u8
-
-#EXTINF:-1,Bein Sports 1
+#EXTM3U
+#EXTINF:-1,TİVİBU SPOR 4
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://1.rec1387.workers.dev/static/bs11.m3u8?&ad=random?token=u4pSwkRKilterPElw4AfZw&tms=1771786844
-
-#EXTINF:-1,BEIN SPORTS 1
-#EXTVLCOPT:http-referrer=https://www.atomsportv488.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://white-sky-0cce.ambiyans.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+https://mss.ayakkabiparti.lol/t4/index.m3u8?token=kKXXNxGFRta3N2vwUkBPow&tms=1771783206
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/trt1.png",TRT 1
 https://b.dalinpepe1.workers.dev/trt1
